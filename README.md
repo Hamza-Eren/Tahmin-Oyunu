@@ -8,9 +8,9 @@ Girdiğiniz 5 harfli kelimeden seçili kelimeyle aynı konumundaki harfleri yeş
 
 
 ## Eklenecekler
-1) Kelime sayısı arttırılacak.
-2) 5 harfle kısıtlanmayacak.
-3) Tahmin hakkı (ör: 5) tanınacak.
+[] Kelime sayısı arttırılacak.
+[] 5 harfle kısıtlanmayacak.
+[] Tahmin hakkı (ör: 5) tanınacak.
 
 
 ## Kullanım
